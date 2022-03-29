@@ -1,4 +1,4 @@
-**Parole de l'intro du Roi Lion**
+##Parole de l'intro du Roi Lion
 
 Nants ingonyama bagithi baba
 (Sithi uhm ingonyama) Ingonyama
@@ -18,7 +18,7 @@ Ingonyama nengw' enamabala
 Ingonyama nengw' enamabala
 Ingonyama nengw' enamabala
 
-Au matin de ta vie sur la planète
+**Au matin** de ta vie sur la planète
 Ébloui par le Dieu Soleil
 À l'infini, tu t'éveilles aux merveilles
 De la Terre qui t'attend et t'appelle
@@ -28,7 +28,7 @@ Recueillir l'héritage
 Qui vient du fond des âges
 Dans l'harmonie d'une chaîne d'amour
 
-C'est l'histoire de la vie
+**C'est l'histoire** de la vie
 Le cycle éternel
 Qu'un enfant béni
 Rend immortel
