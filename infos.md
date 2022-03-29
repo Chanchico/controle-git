@@ -1,3 +1,5 @@
+**Parole de l'intro du Roi Lion**
+
 Nants ingonyama bagithi baba
 (Sithi uhm ingonyama) Ingonyama
 Nants ingonyama bagithi baba
